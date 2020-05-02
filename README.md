@@ -83,7 +83,7 @@ a zip file. The inline editor is currently capped at 20KB, so for bigger
 functions, or if you need to split your code into multiple files (for
 example if you use libraries), the zip file approach is the way to go.
 
--//If you are following the "Hello World" tutorial, grab the code from [this page](http://www.daslhub.org/unlv/wiki/doku.php?id=echo_hello_world) and paste it in the inline editor//
+-//If you are following the "Hello World" tutorial, grab the code from [this page](https://github.com/twbot/HelloWorldAlexaSkill) and paste it in the inline editor//
 
 -Once the code is added, scroll down to the end of the page and click Next to save the
 configuration.
@@ -102,4 +102,4 @@ check to make sure the trigger is set to Alexa Skills Kit in the Triggers tab.
 
 -If its not set, click "Add trigger" and choose "Alexa Skills Kit".
 
--//If you are following the "Hello World" tutorial, you can continue [here](http://www.daslhub.org/unlv/wiki/doku.php?id=echo_hello_world).//
+-//If you are following the "Hello World" tutorial, you can continue [here](https://github.com/twbot/HelloWorldAlexaSkill).//
